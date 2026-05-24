@@ -1,0 +1,6 @@
+{
+  "name": "Tax Intelligence AI Assistant",
+  "description": "Advanced Indian Tax AI Assistant and Knowledge Expert for GST, TDS, Income Tax, RBI notifications, and FEMA regulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
